@@ -7,7 +7,7 @@ void pop();
 void display();
 int main(){
     int ch;
-    printf("-------------MENU-------------\n");
+    printf("-------------STACK MENU-------------\n");
     printf("1. PUSH\n");
     printf("2. POP\n");
     printf("3. DISPLAY\n");
