@@ -3,7 +3,7 @@
 
 struct Class{
     int number;
-    char ch;
+    char c;
 };
 
 int main(){
